@@ -47,7 +47,7 @@ Insert image
 
 Finally, see below for the user interface for this code in Terminal
 
-Insert image
+![*Figure 7: User Interface - Terminal*](D93261F5-3A90-40C2-B6DE-0557A59063F2.jpeg)
 *Figure 7: User Interface - Terminal*
 
 # Summary

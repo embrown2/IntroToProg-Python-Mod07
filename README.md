@@ -21,7 +21,6 @@ Below is the first portion of the Main Script, which includes the demo of pickli
 The Structured Error Handling Demo and Code Exit are in the second portion of the Main Script.
 
 ![*Figure 3: Second Portion of Main Script – Structured Error Handling*](32FCC148-DF05-477C-BFB6-5DF3072A6C2E.jpeg)
-
 *Figure 3: Second Portion of Main Script – Structured Error Handling*
 
 # Results
@@ -32,13 +31,11 @@ First, I chose option 1 to demonstrate pickling. I entered “Pickles” and “
 See below for the user interface for options 1 and 2.
 
 ![*Figure 4: User Interface – Options 1 and 2*](EB5AEDC6-79BC-42EA-96E2-12532C351CD9.jpeg)
-
 *Figure 4: User Interface – Options 1 and 2*
 
 It is also worth noting the characters stored in GroceryList.txt. While it does not present as binary, it also does not present as normal text.
 
 ![](37FD2CA6-16DE-48E3-8A40-6DD6E434E8C1_4_5005_c.jpeg)
-
 *Figure 5: User Inputted Data Stored in Text File*
 
 Next, I selected option 3 to demonstrate Structured Error Handling. The user interface show very little, but there are notes within the script (see Figure 3) to guide the user through the demo. Note that the first Try and Except statement contains no error, so the script runs and does not divert to indicate an error. However, the second Try and Except statement contains an error so it diverts to indicate an error in that section of code. Finally, I selected option 4 to exit the code.
@@ -46,13 +43,11 @@ Next, I selected option 3 to demonstrate Structured Error Handling. The user int
 See below for the user interface for options 3 and 4.
 
 ![*Figure 6: User Interface - Options 3 and 4*](915F40D6-31BB-43E1-8199-7A52C8E179DE.jpeg)
-
 *Figure 6: User Interface - Options 3 and 4*
 
 Finally, see below for the user interface for this code in Terminal
 
 ![*Figure 7: User Interface - Terminal*](D93261F5-3A90-40C2-B6DE-0557A59063F2.jpeg)
-
 *Figure 7: User Interface - Terminal*
 
 # Summary
@@ -67,6 +62,4 @@ Read a Pickle File in Python:
 https://www.delftstack.com/howto/python/python-read-pickle/
 
 Text Files vs. Binary Files: https://fileinfo.com/help/binary_vs_text_files#:~:text=While%20both%20binary%20and%20text,textual%20and%20custom%20binary%20data.
-![image](https://user-images.githubusercontent.com/111045896/186833599-16603f8c-87d3-4ada-91b7-842731ace071.png)
-
 

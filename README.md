@@ -30,7 +30,8 @@ First, I chose option 1 to demonstrate pickling. I entered “Pickles” and “
 
 See below for the user interface for options 1 and 2.
 
-Insert image
+![*Figure 4: User Interface – Options 1 and 2*](EB5AEDC6-79BC-42EA-96E2-12532C351CD9.jpeg)
+
 *Figure 4: User Interface – Options 1 and 2*
 
 It is also worth noting the characters stored in GroceryList.txt. While it does not present as binary, it also does not present as normal text.
@@ -48,6 +49,7 @@ Insert image
 Finally, see below for the user interface for this code in Terminal
 
 ![*Figure 7: User Interface - Terminal*](D93261F5-3A90-40C2-B6DE-0557A59063F2.jpeg)
+
 *Figure 7: User Interface - Terminal*
 
 # Summary

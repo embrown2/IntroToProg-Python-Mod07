@@ -36,7 +36,8 @@ See below for the user interface for options 1 and 2.
 
 It is also worth noting the characters stored in GroceryList.txt. While it does not present as binary, it also does not present as normal text.
 
-Insert image
+![](37FD2CA6-16DE-48E3-8A40-6DD6E434E8C1_4_5005_c.jpeg)
+
 *Figure 5: User Inputted Data Stored in Text File*
 
 Next, I selected option 3 to demonstrate Structured Error Handling. The user interface show very little, but there are notes within the script (see Figure 3) to guide the user through the demo. Note that the first Try and Except statement contains no error, so the script runs and does not divert to indicate an error. However, the second Try and Except statement contains an error so it diverts to indicate an error in that section of code. Finally, I selected option 4 to exit the code.

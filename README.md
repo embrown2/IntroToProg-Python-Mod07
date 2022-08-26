@@ -10,7 +10,7 @@ I utilized a similar structure to our recent assignments that allows the user to
 # Script
 Below are screenshots from PyCharm of the script for Assignment 07. The first section of code is the change log, declaration of global variables, and definition of the menu function. Note that I have imported “pickle” to allow for the pickling functions to be used.
 
-Insert Image
+![*Figure 1: Header, Global Variables, and Menu Function*](B125C629-2BF1-4E49-8851-25A91F3C60C6.jpeg)
 *Figure 1: Header, Global Variables, and Menu Function*
 
 Below is the first portion of the Main Script, which includes the demo of pickling data, writing it to a text file, then loading that data back into a Python Object. Note that the file is cleared each time new data is entered because the “pickle.load()” function can only read one line of data.

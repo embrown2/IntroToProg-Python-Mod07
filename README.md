@@ -15,7 +15,7 @@ Below are screenshots from PyCharm of the script for Assignment 07. The first se
 
 Below is the first portion of the Main Script, which includes the demo of pickling data, writing it to a text file, then loading that data back into a Python Object. Note that the file is cleared each time new data is entered because the “pickle.load()” function can only read one line of data.
 
-![*Figure 2: First Portion of Main Script - Pickling Demo*](EB5AEDC6-79BC-42EA-96E2-12532C351CD9.jpeg)
+![*Figure 2: First Portion of Main Script - Pickling Demo*](F66058C2-2E57-4704-88AD-01BB33E23BF4.jpeg)
 *Figure 2: First Portion of Main Script - Pickling Demo*
 
 The Structured Error Handling Demo and Code Exit are in the second portion of the Main Script.

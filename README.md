@@ -43,7 +43,8 @@ Next, I selected option 3 to demonstrate Structured Error Handling. The user int
 
 See below for the user interface for options 3 and 4.
 
-Insert image
+![*Figure 6: User Interface - Options 3 and 4*](915F40D6-31BB-43E1-8199-7A52C8E179DE.jpeg)
+
 *Figure 6: User Interface - Options 3 and 4*
 
 Finally, see below for the user interface for this code in Terminal

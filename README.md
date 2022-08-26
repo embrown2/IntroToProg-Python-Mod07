@@ -20,7 +20,8 @@ Below is the first portion of the Main Script, which includes the demo of pickli
 
 The Structured Error Handling Demo and Code Exit are in the second portion of the Main Script.
 
-Insert Image
+![*Figure 3: Second Portion of Main Script – Structured Error Handling*](32FCC148-DF05-477C-BFB6-5DF3072A6C2E.jpeg)
+
 *Figure 3: Second Portion of Main Script – Structured Error Handling*
 
 # Results
